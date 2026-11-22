@@ -17,18 +17,6 @@ A native client-side MelonLoader VR wrist-screen mod for *A Township Tale* (PCVR
 
 ---
 
-## Installation
-
-1. Ensure **MelonLoader v0.7.3** (Mono) is installed in your *A Township Tale* directory.
-2. Build the project (or take the compiled `TownexWatch.dll` from `Source/AetherChronometer/AetherChronometer/bin/Release/net472/TownexWatch.dll`).
-3. Remove any older `Mods\AetherChronometer.dll` if present, and copy `TownexWatch.dll` into:
-   ```text
-   <A Township Tale Install Dir>\Mods\TownexWatch.dll
-   ```
-4. Launch *A Township Tale* in PCVR. On first run, MelonLoader creates the `[TownexWatch]` section in `UserData/MelonPreferences.cfg`.
-
----
-
 ## In-Game Controls
 
 ### VR Controls
