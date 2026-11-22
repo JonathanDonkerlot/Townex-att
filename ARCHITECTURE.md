@@ -245,3 +245,7 @@ See `README.md` for the full table; every threshold in §3.2 is a preference.
    confirm `PlayerController.Current` and the `[MelonGame("Alta","A Township Tale")]` identity are
    what working mods use.
 5. Bone names taken from `MelonLoader/GameObjectDump.txt` (`VR Player Character New(Clone)`).
+
+## Note
+1. AetherChronometer was the previous name for now Townex.
+2. Waypoints were removed since I forgot there is already a waypoint mod.
