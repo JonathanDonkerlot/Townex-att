@@ -55,3 +55,8 @@ Editing `UserData/MelonPreferences.cfg` live triggers MelonLoader's preference r
 | `HapticStrength` | `0.45` | XR controller haptic impulse amplitude (`0.0`–`1.0`). |
 | `AttachInMainMenu` | `false` | Attach on main menu rigs as well as gameplay `PlayerCharacter`. |
 | `EnableDiagnosticHotkeys` | `true` | Enable `F8` / `F9` keyboard shortcuts. |
+
+
+<p>
+    <img src="https://img.shields.io/github/downloads/JonathanDonkerlot/Townex-att/total?style=for-the-badge&logo=github&color=7fff6e">
+</p>
